@@ -1,0 +1,33 @@
+HTML NOTES
+!aside is a secondary content.
+!span makes the text in the same line.
+
+block vs inline elements:
+Block element: start from new line ex: <p>
+            : it occupies its space
+inline element: does not start from new line ex: <a> tag or <span>
+              : in css, it only occupies what it needs
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSS NOTES
+
+The css box model: border, padding, margin, content
+padding: space around the content
+margin: space between the elements and outside the element
+!flex is important to make elements vertical or horizontal.
+*justify-content:space-between creates space between elements
+
+margin-left: auto helps to take it to the right side all te way.
+
+padding: 16px 0 13px;: 16 for top, 0 left and right, 13px for bottom
